@@ -1,0 +1,2 @@
+# rozet
+Doğrulanmış rozet 
